@@ -1,8 +1,8 @@
 # ESP32-DEV
-- ESP32-DEV Board with ESP-WROOM-32 and CP2102 USB Controller
+- ESP32-DEV Board with CH340 USB Interfacce 
 - https://www.robotics.org.za/ESP32-DEV
-
-![image](https://user-images.githubusercontent.com/4562957/121058926-2f3bdd00-c7c1-11eb-99bc-385533d9a46f.png)
+  
+<img width="181" height="336" alt="image" src="https://github.com/user-attachments/assets/f7d3b85e-0d56-49ca-9e97-e38b65cc8653" />
 
 
 
